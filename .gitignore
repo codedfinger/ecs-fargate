@@ -1,4 +1,5 @@
 # Compiled files
+./node_modules
 *.tfstate
 *.tfstate.backup
 .terraform.tfstate.lock.info
